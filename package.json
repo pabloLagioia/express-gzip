@@ -1,0 +1,26 @@
+{
+  "name": "express-gzip",
+  "version": "0.0.1",
+  "description": "gzip middleware for express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/pabloLagioia/express-gzip.git"
+  },
+  "keywords": [
+    "gzip",
+    "express"
+  ],
+  "author": "pablo.lagioia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pabloLagioia/express-gzip/issues"
+  },
+  "homepage": "https://github.com/pabloLagioia/express-gzip#readme",
+  "dependencies": {
+    "compression": "^1.6.2"
+  }
+}
